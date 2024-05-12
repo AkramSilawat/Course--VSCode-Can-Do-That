@@ -64,4 +64,4 @@ class App {
   }
 }
 
-let application = new App();
+let application = new App();;
