@@ -1,0 +1,16 @@
+{
+    "name": "start",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+      "test": "echo pffffft",
+      "start": "lite-server index.html"
+    },
+    "dependencies": {
+      "before": "^0.0.1",
+      "jquery": "3.7.1",
+      "lite-server": "^2.5.3",
+      "npm": "^10.6.0",
+      "start": "^5.1.0"
+    }
+  }
