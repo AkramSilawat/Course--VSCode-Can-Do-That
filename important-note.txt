@@ -1,0 +1,25 @@
+theme selection drop down :ctr + k + t
+piacoke: side bar color
+toggle formating: save the file to auto pretiar
+wrap up selection in html: firtst time - shift up / down, secondTime - ctrl + shift + up / down
+reload vs code: ctr + shift + p "type: reload window"
+
+fold the html js scirpts < !-- #region svg folded-- >  < !-- #endregion -->
+
+multiple slelection skip some: ctr + d(ctrl + k: deslelect)
+select all instances : ctrl + shif + l
+renaming the variable : select the variable and press f2  (renaming all the References)
+
+find both at a time: in search bar: - jpeg | png
+inside of search bar: multiple selection: alt + enter
+inside of search bar: replace searched item: ctrl + h
+
+
+single page divide to a tag name : ctrl + p "type: @ "
+single page divide to a tag & group name : ctrl + p "type: @:"
+
+selection some js line of code and press: ctrl + dot  => to extract the code inpto some posiblitiy factorys
+
+
+// type checking in vs code: type on top of js file "//@ts-check"
+// or gloablally you do : in (setting.json) "javascript.implicitProjectConfig.checkJs": true
